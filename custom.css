@@ -12,7 +12,7 @@ img{
   border-radius: 50%;
 }
 .lead{
-  color: black;
+  color: white;
   font-weight: bolder;
 }
 ul{
@@ -24,19 +24,19 @@ li{
 }
 .fa-facebook-official,
 .fa-linkedin,
-.fa-github-alt,
+.fa-github,
 .fa-stack-overflow,
 .fa-envelope,
 .fa-instagram,
 h1{
-  color:#94CFC9;
+  color:white;
 }
 .fs{
   font-size: 25px;
 }
 a{
   font-weight: bolder;
-  color: #4b0082;
+  color: white;
 }
 a:hover{
   color: black;
@@ -46,11 +46,11 @@ a:hover{
   max-width: 350px;
   color: black;
     font-weight: bolder;
-  background-color: #94CFC9;
+  background-color: white;
 }
 .foot{
   font-size: 15px;
-  color: black;
+  color: white;
   font-weight: bolder;
 }
 /* stars and background */
