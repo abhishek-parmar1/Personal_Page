@@ -85,6 +85,9 @@ hr{
     li{
         margin-right: 30px;
     }
+    .foot{
+        font-size: 12px;
+    }
 }
 /* stars and background */
 html,
