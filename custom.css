@@ -66,10 +66,25 @@ a:hover,a:focus{
   font-weight: bolder;
   background-color: #cee9f4;
 }
+hr{
+    border-top: 2px solid white;
+}
 .foot{
   font-size: 15px;
   color: white;
   font-weight: bolder;
+}
+/* media query */
+@media only screen and (max-width:400px){
+    strong{
+        padding: 10px;
+    }
+    ul{
+        padding-left: 0px;
+    }
+    li{
+        margin-right: 30px;
+    }
 }
 /* stars and background */
 html,
