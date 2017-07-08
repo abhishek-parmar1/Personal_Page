@@ -31,6 +31,24 @@ li{
 h1{
   color:white;
 }
+i.fa-facebook-official:hover{
+  color:#3b5998;
+}
+i.fa-linkedin:hover{
+  color:#007bb5;
+}
+i.fa-github:hover{
+  color:#000;
+}
+i.fa-stack-overflow:hover{
+  color:darkred;
+}
+i.fa-envelope:hover{
+  color:#bb4d39;
+}
+i.fa-instagram:hover{
+  color:#e95950;
+}
 .fs{
   font-size: 25px;
 }
