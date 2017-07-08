@@ -63,8 +63,8 @@ a:hover{
 .tooltip-inner {
   max-width: 350px;
   color: black;
-    font-weight: bolder;
-  background-color: white;
+  font-weight: bolder;
+  background-color: #cee9f4;
 }
 .foot{
   font-size: 15px;
